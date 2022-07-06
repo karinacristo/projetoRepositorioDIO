@@ -1,2 +1,7 @@
-# projetoRepositorioDIO
-Desafio de conhecimento em Git/GitHub totalmente prático gerado pela DIO.
+# Projeto Inicial da DIO
+
+### Primeiro desafio prático de conhecimento em Git/GitHub, criando um repositório.
+
+<!-- CONTACT -->
+## Contato:
+[Linkedin](https://www.linkedin.com/in/karina-cristo/)
